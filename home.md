@@ -1,5 +1,5 @@
 
-Template de cours pour créer des cours avec Esc@Pad
+Template de cours pour créer des cours avec Esc@Pad.
 
 ## Créer son programme de cours avec Esc@Pad
 
