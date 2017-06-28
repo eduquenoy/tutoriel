@@ -1,4 +1,4 @@
-# Exemple de cours Escapad
+# Exemple de cours Escapad Test
 
 ## Sous section de cours
 
